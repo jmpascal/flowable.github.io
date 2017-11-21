@@ -67,3 +67,5 @@ gems:
 - jekyll-feed
 flowable_version: 6.2.0
 flowable_5_version: 5.23.0
+
+theme: jekyll-theme-tactile
